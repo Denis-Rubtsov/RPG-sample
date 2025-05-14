@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FAFEFB3D-1E41-F351-2D1C-C29C45A5334A}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controller.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controller.cs" Line="234" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.ugui/Runtime/UGUI/EventSystem/InputModules/BaseInput.cs" Line="8" Column="22" />
+      <File FileName="Assets/Scripts/Inputs.cs" Line="8" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RPG-sample">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Controller.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="92d53416-88ec-4eac-a036-8f08e512cef7" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
